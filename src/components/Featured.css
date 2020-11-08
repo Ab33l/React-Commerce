@@ -1,0 +1,18 @@
+.featured {
+  border: 3px solid #fff;
+  padding: 20px;
+}
+
+.featured__left {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  border: 2px solid red;
+}
+
+.featured__right {
+  width: 50%;
+  float: right;
+  padding: 20px;
+  border: 2px solid red;
+}

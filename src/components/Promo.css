@@ -1,0 +1,50 @@
+.promo {
+  width: 100%;
+}
+
+.video__wrapper video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* .advert__promo {
+  width: 100%;
+  height: 1400px;
+} */
+
+.advert__One,
+.advert__Two,
+.advert__Three,
+.advert__Four {
+  height: 500px;
+  float: left;
+  width: 50%;
+}
+
+/* .advert__One {
+  background: blue;
+} */
+.advert__Two {
+  background: red;
+}
+.advert__Three {
+  background: green;
+  clear: left;
+}
+.advert__Four {
+  background: black;
+}
+
+.one__Image {
+  object-fit: cover;
+  width: 100%;
+}
+
+.four__Image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
